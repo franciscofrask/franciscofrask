@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Ruby**
 
-- 📫 How to reach me **franciscoFrascona@gmail.com**
+- 📫 How to reach me **franciscofrascona@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
